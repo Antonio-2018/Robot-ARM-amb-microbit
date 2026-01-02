@@ -7,3 +7,4 @@ Projecte de desenvolupament d'un braç robòtic ARM.
 - Seqüències automàtiques.
 - Dossier pas a pas del muntatge, calibració i programació bàsica.
 - Fitxers .hex per Makecode.
+- Vídeos d'exemple.
